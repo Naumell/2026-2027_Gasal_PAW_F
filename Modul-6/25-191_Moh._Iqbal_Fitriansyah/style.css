@@ -1,0 +1,9 @@
+body{font-family:Arial,sans-serif;margin:24px;color:#222}
+nav a{margin-right:14px}
+table{border-collapse:collapse;margin:12px 0;min-width:480px}
+th,td{border:1px solid #999;padding:6px 10px;text-align:left}
+th{background:#eee}
+.ok{background:#d4edda;padding:8px;border:1px solid #28a745;margin:10px 0}
+.err{background:#f8d7da;padding:8px;border:1px solid #dc3545;margin:10px 0}
+fieldset{margin:14px 0;padding:12px}
+label{display:inline-block;min-width:110px;margin:4px 0}
